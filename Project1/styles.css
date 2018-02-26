@@ -4,6 +4,7 @@ body{
     font-family: 'Mukta Mahee', sans-serif;
 
     background-color:red;
+    background-image: url(Bird.png)
 }
 .title{
     font-weight:900;
@@ -15,6 +16,7 @@ h3 {
 }
 
 h6 {
+    width:100%;
     font-weight:500;
     font-size:20px
 }
@@ -22,6 +24,9 @@ h6 {
 h1{
     font-weight: 900;
     font-size: 3rem;
+}
+h4{
+    width:100%;
 }
 
 .peace {
@@ -47,8 +52,7 @@ div.sat{
 div.activities{
     text-align:center;
     width:100%;
-   
-}
+   }
 
 div.title{
     text-align:center;    
@@ -64,4 +68,8 @@ body{
 
 div.dates{
     text-align: center;
+}
+
+div.image{
+    width:20%
 }
