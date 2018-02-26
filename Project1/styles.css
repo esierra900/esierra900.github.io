@@ -27,6 +27,7 @@ h1{
 }
 h4{
     width:100%;
+    text-align: center;
 }
 
 .peace {
@@ -62,9 +63,6 @@ div.peace{
     text-align: center;
 }
 
-body{
-    background: width 30%;
-}
 
 div.dates{
     text-align: center;
