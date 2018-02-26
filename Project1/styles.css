@@ -4,7 +4,8 @@ body{
     font-family: 'Mukta Mahee', sans-serif;
 
     background-color:red;
-    background-image: url(Bird.png)
+    background-image: url(Bird.png);
+    width:100%;
 }
 .title{
     font-weight:900;
@@ -26,8 +27,8 @@ h1{
     font-size: 3rem;
 }
 h4{
-    width:100%;
-    text-align: center;
+    text-align:center;
+    width: 100%;
 }
 
 .peace {
