@@ -1,19 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee');
+@import  url('https://fonts.googleapis.com/css?family=Righteous');
 
 body{
-    font-family: 'Mukta Mahee', sans-serif;
+    font-family: 'Righteous', cursive;
 
     background-color:red;
     background-image: url(Bird.png);
     width:100%;
 }
 .title{
-    font-weight:900;
-    font-size:60px;
+    padding: 30px;
 }
 h3 {
     font-weight:900;
-    font-size: 2rem
+    font-size: 2rem;
+    padding:20px;
+    color:limegreen;
 }
 
 h6 {
@@ -23,29 +24,36 @@ h6 {
 }
 
 h1{
-    font-weight: 900;
-    font-size: 3rem;
+    font-weight: bold;
+    font-size: 55px;
+    color:limegreen;
 }
-h4{
+div.info{
+    clear:both;
     text-align:center;
     width: 100%;
+    padding:20px;
 }
 
 .peace {
     font-size:120px
 }
 div.sun{
+     padding-bottom: 30px;
+     padding:5px;
     float:left;
     width: 33%;
     text-align: center;
 }
 
 div.fri{
+    padding-bottom: 30px;
     float:left;
     width: 33%;
     text-align: center;
 }
 div.sat{
+    padding-bottom: 30px;
     float:left;
     width: 33%;
     text-align:center;
@@ -60,15 +68,19 @@ div.title{
     text-align:center;    
 }
 
-div.peace{
-    text-align: center;
-}
-
-
 div.dates{
+    color:limegreen;
+    padding-bottom: 30px;
     text-align: center;
+    font-size: 4rem;
 }
 
 div.image{
     width:20%
+}
+p{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 15px;
+    color:limegreen;
 }
