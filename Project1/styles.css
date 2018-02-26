@@ -33,6 +33,8 @@ div.info{
     text-align:center;
     width: 100%;
     padding:20px;
+    font-size: 25px;
+    font-weight:bold;
 }
 
 .peace {
@@ -83,4 +85,8 @@ p{
     font-size: 30px;
     padding: 15px;
     color:limegreen;
+}
+
+li{
+    color:darkblue;
 }
